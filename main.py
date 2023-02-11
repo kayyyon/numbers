@@ -10,4 +10,4 @@ while n!= guess:
         guess = int(input("Введите число снова: "))
     else:
       break
-print("Вы угадали!")
+print("Вы угадали!!")
